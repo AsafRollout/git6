@@ -1,5 +1,5 @@
 # This file was edited by Cloudbees Feature Management
 type: experiment
 enabled: false
-flag: f2
-value: true
+flag: default.newFlag2
+value: false
