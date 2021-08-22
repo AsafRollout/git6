@@ -1,0 +1,9 @@
+# This file was edited by Cloudbees Feature Management
+type: experiment
+enabled: false
+flag: def.newVariant
+availableValues:
+  - C
+  - B
+  - A
+value: C
